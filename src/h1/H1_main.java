@@ -7,7 +7,6 @@ public class H1_main {
 		int[] a = { 1, 2, 3, 4, 5, 6 };
 		int[] b = { 6, 5, 4, 3, 2, 1 };
 
-		System.out.print(isMirrorArray(a, b));
 	}
 
 	public static boolean isMirrorArray(int[] a, int[] b) {
